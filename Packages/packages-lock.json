@@ -21,6 +21,13 @@
       "dependencies": {},
       "hash": "b1228dfd2bc3dd9b9e3879e8509b1a12e5b64e86"
     },
+    "com.unity-atoms.unity-atoms": {
+      "version": "https://github.com/unity-atoms/unity-atoms.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b21fb13283357e50695c96d8b50e550ab4f28e97"
+    },
     "com.unity.2d.animation": {
       "version": "12.0.2",
       "depth": 1,
