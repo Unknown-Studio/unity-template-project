@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 790c130f8595c4cbebce4672a6f18404, type: 3}
+  m_Name: SO_Chainsaw
+  m_EditorClassIdentifier: Assembly-CSharp::Suhdo.Data.WeaponData
+  weaponId: so_chainsaw
+  weaponName: Chainsaw
+  weaponType: 0
+  baseDamage: 10
+  attackRate: 3
+  attackRange: 1.5
+  icon: {fileID: 1922351167, guid: 78bb1cf6fb27445379223a0a55dd3c42, type: 3}
+  weaponPrefab: {fileID: 6495411628822571098, guid: cfc3c779645b6498dabf78b6c8b48410, type: 3}

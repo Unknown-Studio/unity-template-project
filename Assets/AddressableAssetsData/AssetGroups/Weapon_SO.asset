@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Weapon_SO
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Weapon_SO
+  m_GUID: 5aff98c461cd54e89bcda7ab8f9ffbf5
+  m_SerializeEntries:
+  - m_GUID: 3df136a096d8b4dc89eedf670d5f6954
+    m_Address: so_chainsaw
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - weapon_data
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 08d1f55632d7d42f596adca442858b32, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bc539931ee937441ca1a0f7595029932, type: 2}
+    - {fileID: 11400000, guid: 4f78fb638f37e41bdaeb1a0f389993de, type: 2}

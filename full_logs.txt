@@ -1,0 +1,607 @@
+{
+  "success": true,
+  "count": 100,
+  "logs": [
+    {
+      "type": "Error",
+      "message": "ExecuteMenuItem failed because there is no menu named 'Tools/DummyTest'\nUnityEditor.EditorApplication:ExecuteMenuItem (string)\nUnitySkills.EditorSkills:EditorExecuteMenu (string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/EditorSkills.cs:125)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRouter.cs:369)\nUnitySkills.SkillsHttpSe...",
+      "file": "/Users/bokken/build/output/unity/unity/Editor/Mono/EditorApplication.bindings.cs",
+      "line": 169
+    },
+    {
+      "type": "Error",
+      "message": "Assets/_Project/Scripts/Editor/SmartAddresserCustomProviders.cs(9,25): error CS0534: 'LowercasePrefixAddressProvider' does not implement inherited abstract member 'AddressProviderAsset.Provide(string, Type, bool)'\n",
+      "file": "Assets/_Project/Scripts/Editor/SmartAddresserCustomProviders.cs",
+      "line": 9
+    },
+    {
+      "type": "Error",
+      "message": "Assets/_Project/Scripts/Editor/SmartAddresserCustomProviders.cs(18,32): error CS0115: 'LowercasePrefixAddressProvider.Provide(string, Type, bool, string, AddressableAssetGroup)': no suitable method found to override\n",
+      "file": "Assets/_Project/Scripts/Editor/SmartAddresserCustomProviders.cs",
+      "line": 18
+    },
+    {
+      "type": "Warning",
+      "message": "Assembly for Assembly Definition File 'Packages/com.unity-atoms.unity-atoms/Packages/MonoHooks/Editor/UnityAtoms.UnityAtomsMonoHooks.Editor.asmdef' will not be compiled, because it has no scripts associated with it.\nUnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:TickCompilationPipeline (UnityEditor.Scripting.ScriptCompilation.EditorScriptCompilationOptions,UnityEditor.BuildTarget,int,string[],bool) (at /Users/bokken/build/output/unity/unity/Editor/Mono/Scripting/ScriptCompila...",
+      "file": "/Users/bokken/build/output/unity/unity/Editor/Mono/Scripting/ScriptCompilation/EditorCompilation.cs",
+      "line": 780
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/yarn.lock has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRou...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static/js/code-block-buttons.js has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static/js has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRou...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static/img/pen.svg has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static/img/favicon.ico has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Sk...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static/img/bug.svg has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static/img/box.svg has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static/img/atoms-logo.svg has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static/img/atoms-icon-white.png has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static/img/atoms-icon-pure-purple.png has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e8222...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static/img has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRo...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static/css/custom.css has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Ski...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static/css/code-block-buttons.css has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static/css has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRo...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static/assets/video/valuelist_03_inspect.mp4 has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static/assets/video/valuelist_02_create_and_sync.mp4 has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static/assets/video/valuelist_01_setup.mp4 has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static/assets/video has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skill...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static/assets has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/Skil...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/static has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRouter...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/src/pages/index.module.css has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Edito...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/src/pages/index.js has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/src/pages has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRou...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/src/css/customTheme.css has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/S...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/src/css has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRoute...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/src has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRouter.cs...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/sidebars.json has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/Skil...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/package.json has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/Skill...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/package-lock.json has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website/docusaurus.config.js has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skil...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/website has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRouter.cs:369...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/README.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRouter.cs:3...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/PUBLISHING.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRouter....",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/Packages/MonoHooks/Physics2D has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skil...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/Packages/MonoHooks/Physics has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/Packages/BaseAtoms/Physics2D has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skil...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/Packages/BaseAtoms/Physics has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/Packages has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRouter.cs:36...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/package.json has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRouter.c...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/omnisharp.json has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRouter...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/LICENSE.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRouter.cs:...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/tutorials/variables.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skill...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/tutorials/variable-transformers.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/tutorials/variable-instancer.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Edi...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/tutorials/value-lists.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Ski...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/tutorials/unirx.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/Sk...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/tutorials/mono-hooks.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skil...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/tutorials/listeners.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skill...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/tutorials/generator.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skill...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/tutorials/events.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/S...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/tutorials/event-instancer.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/tutorials/creating-atoms.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/tutorials/conditions.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skil...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/tutorials/advanced-example.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Edito...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/tutorials/actions.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/tutorials has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRouter...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/subpackages/ui.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/Ski...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/subpackages/tags.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/S...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/subpackages/scene-mgmt.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Sk...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/subpackages/mono-hooks.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Sk...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/subpackages/mobile.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/subpackages/input-system.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/subpackages/fsm.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/Sk...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/subpackages/base-atoms.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Sk...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/subpackages has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRout...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/README.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRouter...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/introduction/preferences.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/introduction/philosophy.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/S...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/introduction/overview.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Ski...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/introduction/installation.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/introduction/faq.md has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/S...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/introduction has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/SkillRou...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variables/player-health-script.png has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e822...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variables/intreference-demo.gif has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variables/int-variable_player-health-v1.png has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skil...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variables/int-constant_max-player-health.png has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-ski...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variables/healthbar-script-v1.png has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e8222...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variables/assign-to-playerhealth.gif has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e8...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variables/assign-to-healthbar.gif has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e8222...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variables has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/Skil...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variable-instancer/wyvern-variant.png has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variable-instancer/without-instancers.png has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variable-instancer/with-instancers.png has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variable-instancer/monsters-report.png has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variable-instancer/monster-start-healths.png has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-ski...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variable-instancer/monster-reports.png has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variable-instancer/listener-use-instancer.gif has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-sk...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variable-instancer/instancer-listener-response.gif has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.uni...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variable-instancer/instancer-base-variable.gif has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-s...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variable-instancer/init-health.png has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e822...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variable-instancer/create-prefabs.png has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variable-instancer/add-int-var-instancer-1.png has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-s...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/variable-instancer has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Sk...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/unity-atoms-update.png has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Edito...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/quick-start/create-your-first-atom.png has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    },
+    {
+      "type": "Error",
+      "message": "Asset Packages/com.unity-atoms.unity-atoms/docs/assets/quick-start has no meta file, but it's in an immutable folder. The asset will be ignored.\nUnityEditor.AssetDatabase:Refresh ()\nUnitySkills.AssetSkills:AssetRefresh () (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/AssetSkills.cs:360)\nSystem.Reflection.MethodBase:Invoke (object,object[])\nUnitySkills.SkillRouter:Execute (string,string) (at ./Library/PackageCache/com.besty.unity-skills@68e82222e0d5/Editor/Skills/Sk...",
+      "file": "/Users/bokken/build/output/unity/unity/Modules/AssetDatabase/Editor/ScriptBindings/AssetDatabase.bindings.cs",
+      "line": 459
+    }
+  ],
+  "source": "console"
+}

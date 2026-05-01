@@ -1,0 +1,290 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8692489374844219053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb1d81ccbd4b0433ab7d0299a00bb272, type: 3}
+  m_Name: Provider_Local_data_
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::Suhdo.Editor.LowercasePrefixAddressProvider
+  _prefix: data/
+  _removeExtension: 1
+--- !u!114 &-8332397403067404569
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb1d81ccbd4b0433ab7d0299a00bb272, type: 3}
+  m_Name: Provider_Local_ui_
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::Suhdo.Editor.LowercasePrefixAddressProvider
+  _prefix: ui/
+  _removeExtension: 1
+--- !u!114 &-7300616775718755550
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb1d81ccbd4b0433ab7d0299a00bb272, type: 3}
+  m_Name: Provider_Remote_
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::Suhdo.Editor.LowercasePrefixAddressProvider
+  _prefix: 
+  _removeExtension: 1
+--- !u!114 &-5716735392352272619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb1d81ccbd4b0433ab7d0299a00bb272, type: 3}
+  m_Name: Provider_Local_audio_
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::Suhdo.Editor.LowercasePrefixAddressProvider
+  _prefix: audio/
+  _removeExtension: 1
+--- !u!114 &-3946979126565469865
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb1d81ccbd4b0433ab7d0299a00bb272, type: 3}
+  m_Name: Provider_Local_ui_
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::Suhdo.Editor.LowercasePrefixAddressProvider
+  _prefix: ui/
+  _removeExtension: 1
+--- !u!114 &-3681979636414972017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb1d81ccbd4b0433ab7d0299a00bb272, type: 3}
+  m_Name: Provider_Local_data_
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::Suhdo.Editor.LowercasePrefixAddressProvider
+  _prefix: data/
+  _removeExtension: 1
+--- !u!114 &-2472093846884837096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb1d81ccbd4b0433ab7d0299a00bb272, type: 3}
+  m_Name: Provider_Remote_
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::Suhdo.Editor.LowercasePrefixAddressProvider
+  _prefix: 
+  _removeExtension: 1
+--- !u!114 &-993593671604790887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb1d81ccbd4b0433ab7d0299a00bb272, type: 3}
+  m_Name: Provider_Local_prefab_character_
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::Suhdo.Editor.LowercasePrefixAddressProvider
+  _prefix: 
+  _removeExtension: 1
+--- !u!114 &-106376464999984460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb1d81ccbd4b0433ab7d0299a00bb272, type: 3}
+  m_Name: Provider_Local_audio_
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::Suhdo.Editor.LowercasePrefixAddressProvider
+  _prefix: audio/
+  _removeExtension: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c113ff064b10c427fb3a071e46ace37d, type: 3}
+  m_Name: GameAddresserRules
+  m_EditorClassIdentifier: SmartAddresser.Editor::SmartAddresser.Editor.Core.Models.LayoutRules.LayoutRuleData
+  _layoutRule:
+    _settings:
+      _excludeUnversioned:
+        _value: 0
+      _versionExpression:
+        _value: 
+    _addressRules:
+      _internalList:
+      - _id: 5e4f6bdc-3f1c-4eb5-957d-765525b880fe
+        _addressableGroup: {fileID: 11400000, guid: 17a22c58f228545a690fe30787aa0b93, type: 2}
+        _control:
+          _value: 0
+        _assetGroups:
+          _internalList:
+          - _id: 0761e026-0142-4744-a6dd-8bb1fd5739e6
+            _name:
+              _value: Default Asset Group
+            _filters:
+              _internalList: []
+        _addressProviderInternal:
+          rid: 2378152857499598972
+      - _id: 02313836-dabe-4311-b0fd-6a3831cbc533
+        _addressableGroup: {fileID: 11400000, guid: 689c98f756c8c426993050e2a82e5af5, type: 2}
+        _control:
+          _value: 0
+        _assetGroups:
+          _internalList:
+          - _id: c2651c9e-346c-4b3d-b81a-92bb5d2394b4
+            _name:
+              _value: Default Asset Group
+            _filters:
+              _internalList: []
+        _addressProviderInternal:
+          rid: 2378152857499598959
+      - _id: e602636d-598b-4f48-a9e3-0239fb6b9075
+        _addressableGroup: {fileID: 11400000, guid: 3d16c1495820f4721a18b718de9eae24, type: 2}
+        _control:
+          _value: 1
+        _assetGroups:
+          _internalList:
+          - _id: 36dc64ba-1e99-41fa-8f0f-c54152707c39
+            _name:
+              _value: Default Asset Group
+            _filters:
+              _internalList:
+              - rid: 2378152857499598949
+        _addressProviderInternal:
+          rid: 2378152857499598950
+      - _id: b46ef556-e53e-4448-a2b2-f0829dc89991
+        _addressableGroup: {fileID: 11400000, guid: 0fc7e4d840e484a88aaacb4b6432353e, type: 2}
+        _control:
+          _value: 1
+        _assetGroups:
+          _internalList:
+          - _id: 5909b4c6-69fb-4e11-a69a-f7699f6294bb
+            _name:
+              _value: Default Asset Group
+            _filters:
+              _internalList:
+              - rid: 2378152857499598957
+        _addressProviderInternal:
+          rid: 2378152857499598958
+    _labelRules:
+      _internalList: []
+    _versionRules:
+      _internalList:
+      - _id: c1705b36-2183-4fc0-ae7f-39d7877086fa
+        _name:
+          _value: New Version Rule
+        _assetGroups:
+          _internalList:
+          - _id: 39abc420-af47-43a3-a2a9-c3ffa3794ca2
+            _name:
+              _value: Default Asset Group
+            _filters:
+              _internalList:
+              - rid: 2378152857499598971
+        _versionProviderInternal:
+          rid: 2378152857499598970
+  references:
+    version: 2
+    RefIds:
+    - rid: 2378152857499598949
+      type: {class: ObjectBasedAssetFilter, ns: SmartAddresser.Editor.Core.Models.Shared.AssetGroups.AssetFilterImpl, asm: SmartAddresser.Editor}
+      data:
+        _id: 791a564b-5fe0-47c3-b216-a5ef7e947f7b
+        _folderTargetingMode: 0
+        _object:
+          _isListMode: 1
+          _values:
+          - {fileID: 102900000, guid: 73f0a78372cc24bc798e8e71971bfc5f, type: 3}
+          - {fileID: 102900000, guid: 9d69206c54c9341688e449f21ad44a49, type: 3}
+    - rid: 2378152857499598950
+      type: {class: CustomAddressProvider, ns: SmartAddresser.Editor.Core.Models.LayoutRules.AddressRules, asm: SmartAddresser.Editor}
+      data:
+        addressProvider: {fileID: -993593671604790887}
+    - rid: 2378152857499598957
+      type: {class: ObjectBasedAssetFilter, ns: SmartAddresser.Editor.Core.Models.Shared.AssetGroups.AssetFilterImpl, asm: SmartAddresser.Editor}
+      data:
+        _id: 5d2a621e-6db1-45b4-8a1c-e71828ad042d
+        _folderTargetingMode: 0
+        _object:
+          _isListMode: 1
+          _values:
+          - {fileID: 102900000, guid: 643289c3106e943b8ae013aaf300c5e2, type: 3}
+          - {fileID: 102900000, guid: f604759f16e014873a9470c600e0ca97, type: 3}
+    - rid: 2378152857499598958
+      type: {class: CustomAddressProvider, ns: SmartAddresser.Editor.Core.Models.LayoutRules.AddressRules, asm: SmartAddresser.Editor}
+      data:
+        addressProvider: {fileID: -2472093846884837096}
+    - rid: 2378152857499598959
+      type: {class: AssetPathBasedAddressProvider, ns: SmartAddresser.Editor.Core.Models.LayoutRules.AddressRules, asm: SmartAddresser.Editor}
+      data:
+        _source: 2
+        _replaceWithRegex: 0
+        _pattern: 
+        _replacement: 
+    - rid: 2378152857499598970
+      type: {class: ConstantVersionProvider, ns: SmartAddresser.Editor.Core.Models.LayoutRules.VersionRules, asm: SmartAddresser.Editor}
+      data:
+        _version: 0.1.0
+    - rid: 2378152857499598971
+      type: {class: AddressableAssetGroupBasedAssetFilter, ns: SmartAddresser.Editor.Core.Models.Shared.AssetGroups.AssetFilterImpl, asm: SmartAddresser.Editor}
+      data:
+        _id: 6c2b2c05-6022-4a9a-900c-29c508f24100
+        _groups:
+          _isListMode: 0
+          _values:
+          - {fileID: 11400000, guid: 3d16c1495820f4721a18b718de9eae24, type: 2}
+    - rid: 2378152857499598972
+      type: {class: AssetPathBasedAddressProvider, ns: SmartAddresser.Editor.Core.Models.LayoutRules.AddressRules, asm: SmartAddresser.Editor}
+      data:
+        _source: 2
+        _replaceWithRegex: 0
+        _pattern: 
+        _replacement: 
+--- !u!114 &3333275364913889744
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb1d81ccbd4b0433ab7d0299a00bb272, type: 3}
+  m_Name: Provider_Local_prefab_character_
+  m_EditorClassIdentifier: Assembly-CSharp-Editor::Suhdo.Editor.LowercasePrefixAddressProvider
+  _prefix: 
+  _removeExtension: 1

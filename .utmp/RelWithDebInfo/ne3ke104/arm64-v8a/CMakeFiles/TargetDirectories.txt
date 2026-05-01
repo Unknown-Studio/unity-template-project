@@ -1,0 +1,8 @@
+/Users/suhdo/UnityProject/unity-template-project/.utmp/RelWithDebInfo/ne3ke104/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/suhdo/UnityProject/unity-template-project/.utmp/RelWithDebInfo/ne3ke104/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/suhdo/UnityProject/unity-template-project/.utmp/RelWithDebInfo/ne3ke104/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/suhdo/UnityProject/unity-template-project/.utmp/RelWithDebInfo/ne3ke104/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/suhdo/UnityProject/unity-template-project/.utmp/RelWithDebInfo/ne3ke104/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Users/suhdo/UnityProject/unity-template-project/.utmp/RelWithDebInfo/ne3ke104/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/suhdo/UnityProject/unity-template-project/.utmp/RelWithDebInfo/ne3ke104/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/suhdo/UnityProject/unity-template-project/.utmp/RelWithDebInfo/ne3ke104/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
